@@ -1,9 +1,6 @@
 from random import *
 from traitlets import Bool
 
-
-
-
 class Hangman:
    
     def __init__(self, word_list, num_lives):
